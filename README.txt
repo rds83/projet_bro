@@ -4,7 +4,7 @@ git status
 
 git add file
 
-git commit "message"
+git commit -m "message"
 
 git push
 
